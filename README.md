@@ -30,7 +30,7 @@ Search for movies, explore trending titles, filter results, and view detailed mo
 
 ## ⚙️ How It Works  
 
-1. **Search or Browse** — Enter a movie title in the search bar or explore trending titles.  
+1. **Search or Browse** — Enter a movie title in the search bar or explore trending titles.
 2. **Apply Filters** — Narrow results by genre, year, or language.  
 3. **View Details** — Click a movie to see its plot, cast, rating, and trailer links.  
 4. **Add to Watchlist** — Save favorite movies to revisit later.  
